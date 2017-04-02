@@ -1,6 +1,6 @@
 ---
 applications:
-- name: static-demo
+- name: Static
   memory: 256M
   instances: 1
   host: static-demo-123
